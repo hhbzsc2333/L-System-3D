@@ -1,0 +1,15 @@
+﻿  test.cpp
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(97,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(102,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(105,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(108,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(146,19): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(304,79): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(307,79): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(311,82): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(314,82): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(401,96): warning C4267: “参数”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(402,96): warning C4267: “参数”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(449,92): warning C4267: “参数”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+D:\BiShe\0.2\F71125\Lsystem3D\Lsystem3D\src\test.cpp(450,92): warning C4267: “参数”: 从“size_t”转换到“const unsigned int”，可能丢失数据
+  Lsystem3D.vcxproj -> D:\BiShe\0.2\F71125\Lsystem3D\x64\Debug\Lsystem3D.exe
